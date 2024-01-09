@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Check empty input field Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>747e3304-51f3-41bb-96a3-9a6dcaf209b9</testCaseGuid>
+</TestCaseEntity>

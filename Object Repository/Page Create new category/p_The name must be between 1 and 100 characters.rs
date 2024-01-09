@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The name must be between 1 and 100 characters</name>
+   <tag></tag>
+   <elementGuidId>afd53672-394f-4ff1-8387-e09b1bda717a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='name_holder']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>64831ebd-fa10-432d-b9c7-aeb2de370e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>f601b633-8214-4c3d-8aa2-d441fd3694ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The name must be between 1 and 100 characters.</value>
+      <webElementGuid>eac6bd7d-d412-42fa-a567-ca84090e22ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>5deeae9c-10e7-4e30-a47a-ad74ae846f96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name_holder']/div/p</value>
+      <webElementGuid>c16c6ddd-447e-4e63-8ae1-b49fb740dddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>1ec9e58a-adde-4783-ab31-49c42b856a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The name must be between 1 and 100 characters.' or . = 'The name must be between 1 and 100 characters.')]</value>
+      <webElementGuid>6a7fd960-2dbc-4772-8f17-4707a5796563</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

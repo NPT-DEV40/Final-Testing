@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Check button to access new budget page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b8ca17b-f2c6-46df-9228-812733fd3122</testCaseGuid>
+</TestCaseEntity>

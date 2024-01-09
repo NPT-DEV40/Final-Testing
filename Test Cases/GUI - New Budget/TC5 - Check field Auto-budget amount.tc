@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - Check field Auto-budget amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25b309a6-242d-4488-af83-779dfe32963c</testCaseGuid>
+</TestCaseEntity>

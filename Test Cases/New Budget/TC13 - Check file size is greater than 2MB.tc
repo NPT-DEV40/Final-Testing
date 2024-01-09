@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Check file size is greater than 2MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd2ff672-f573-4e3e-a807-1e376938d999</testCaseGuid>
+</TestCaseEntity>

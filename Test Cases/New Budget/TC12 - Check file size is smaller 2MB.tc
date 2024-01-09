@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Check file size is smaller 2MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7968c68-c289-436e-9bee-8b52b53c1a50</testCaseGuid>
+</TestCaseEntity>

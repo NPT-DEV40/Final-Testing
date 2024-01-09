@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_New budget</name>
+   <tag></tag>
+   <elementGuidId>0da2b315-b16a-4277-8dd3-e12076469f76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a > div.menu-info > h4.control-sidebar-subheading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='control-sidebar-home-tab']/ul/li[8]/a/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>2132714c-39d0-4f35-a3aa-f44d2252f1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-sidebar-subheading</value>
+      <webElementGuid>08ba8661-a07c-4eb7-9c04-e796d079ee82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New budget</value>
+      <webElementGuid>86440a4a-7202-421f-ab57-32d5edee9fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;control-sidebar-home-tab&quot;)/ul[@class=&quot;control-sidebar-menu&quot;]/li[8]/a[1]/div[@class=&quot;menu-info&quot;]/h4[@class=&quot;control-sidebar-subheading&quot;]</value>
+      <webElementGuid>a7a8ae1b-f13b-4a26-ac72-4cb9d791cfa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='control-sidebar-home-tab']/ul/li[8]/a/div/h4</value>
+      <webElementGuid>3691b369-d701-426f-8b6f-54ae5a66aa57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div/h4</value>
+      <webElementGuid>b0d11ab2-166e-47b3-b785-5c41beb2e2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'New budget' or . = 'New budget')]</value>
+      <webElementGuid>ec45b627-07d9-419d-bd5a-f7e376074ec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - Check Auto-budget amount is greater than 100001709</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d43a95da-aaf8-4b20-8038-296b12472e96</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The value must be more than zero</name>
+   <tag></tag>
+   <elementGuidId>6a58071f-fabc-41a2-bc15-5f2fde57064c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='auto_budget_amount_holder']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b04ea9e7-e231-478d-bde5-b5ea170b4b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>87a428c4-45a8-4798-9464-5ca1e4f3f5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The value must be more than zero.</value>
+      <webElementGuid>48076cec-db74-4be1-9ba6-7cae251b4345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auto_budget_amount_holder&quot;)/div[@class=&quot;col-sm-8&quot;]/p[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>1c01d3ad-13fe-4aef-bdf2-082df883465b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='auto_budget_amount_holder']/div/p</value>
+      <webElementGuid>48cf0768-0cda-4b0b-ba5a-4e2583a7326f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>588c38c0-8d6e-4565-a883-88e4207905f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The value must be more than zero.' or . = 'The value must be more than zero.')]</value>
+      <webElementGuid>eb79ee34-fdca-45bd-8486-f813e3ce518e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

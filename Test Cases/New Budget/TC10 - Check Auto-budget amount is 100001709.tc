@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Check Auto-budget amount is 100001709</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3c5af99-fd0f-4054-8718-1cb001dd1dbd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Check button to access new category page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d81f85e4-222d-41f6-b0ae-e61789933ade</testCaseGuid>
+</TestCaseEntity>

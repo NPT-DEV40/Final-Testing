@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Store new budget</name>
+   <tag></tag>
+   <elementGuidId>cb3d65d6-e1c4-46d1-932c-5191b2fd37a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.pull-right.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6b11da6-b51a-408a-943d-a453745121ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>37f6c7e7-75cf-4602-b579-80d775c20df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn pull-right btn-success</value>
+      <webElementGuid>8b11046d-03d6-4d6e-8ec2-96954b8a45db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store new budget</value>
+      <webElementGuid>7e082ea1-8507-4395-b082-97fe7ea3ec57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-footer&quot;]/button[@class=&quot;btn pull-right btn-success&quot;]</value>
+      <webElementGuid>cdb828ac-83c6-4e70-90d9-f7f412cdab37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>393dbc7e-2f4c-4ee8-a19e-97940e0fbe4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='store']/div[2]/div/div/div[3]/button</value>
+      <webElementGuid>9fb8cd77-201f-4fc1-ab67-2e8cc55a30e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>04adbbe6-1514-4e13-8844-799f64d57b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Store new budget' or . = 'Store new budget')]</value>
+      <webElementGuid>d4d80b1b-ce6d-4dfa-acb8-289356a5d532</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
